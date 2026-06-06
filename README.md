@@ -9,4 +9,5 @@ This is a Data Analyst chatbot built using Google Gemini API.
 
 ## Run
 pip install -r requirements.txt
+
 python app.py
