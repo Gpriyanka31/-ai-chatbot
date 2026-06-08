@@ -14,4 +14,4 @@ python app.py
 
 ## 📸 Demo
 
-![Chatbot Screenshot](chatbot-demo.png)
+![Chatbot Screenshot](Chatbot-demo.png)
