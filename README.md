@@ -7,6 +7,13 @@ An intelligent chatbot built using Google Gemini API that can answer SQL, Python
 - SQL & Python assistance
 - Simple CLI chatbot
 
+
+## 🛠️ Tech Stack   
+- Python
+- Google Gemini API
+- CLI Interface
+- Prompt Engineering
+  
 ## Run
 pip install -r requirements.txt
 
