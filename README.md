@@ -1,6 +1,6 @@
-# AI Chatbot 🤖
+# 🤖 AI Chatbot (Data Analyst Assistant)
 
-This is a Data Analyst chatbot built using Google Gemini API.
+An intelligent chatbot built using Google Gemini API that can answer SQL, Python, and data-related queries with conversational memory.
 
 ## Features
 - Conversational memory
